@@ -1,1 +1,1 @@
-web: python middle_senior.py 
+worker: python middle_senior.py
