@@ -1,1 +1,1 @@
-web: gunicorn app:middle-senior
+web: gunicorn app:middle_senior_heroku
