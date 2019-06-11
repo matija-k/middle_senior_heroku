@@ -1,1 +1,1 @@
-web: gunicorn test:app --log-file -
+web: gunicorn middle_senior:app --log-file -

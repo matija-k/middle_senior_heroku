@@ -4,6 +4,11 @@
 # Author: Matija Knezevic
 # Version: 1.0
 
+import flask
+app = flask.Flask(__name__)
+
+@app.route("/")
+
 trademark_symbol = "®"
 
 # get keywords into list
