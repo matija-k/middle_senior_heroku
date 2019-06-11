@@ -1,1 +1,1 @@
-web: python middle_senior.py
+web: gunicorn app:middle-senior
